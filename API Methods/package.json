@@ -1,0 +1,11 @@
+{
+  "name": "api-methods",
+  "version": "1.0.0",
+  "description": "This is K6 Script Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishikesh Banore",
+  "license": "ISC"
+}
